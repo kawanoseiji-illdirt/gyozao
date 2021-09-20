@@ -33,7 +33,7 @@
 <div class="top_concept">
 
   <img class="top_concept_title" src="<?php echo get_template_directory_uri(); ?>/img/icon_title.svg" alt="ぎょうざのアイコン">
-  <h2 class="section_title">はじめまして</h2>
+  <h2 class="section_title">はじめまして。</h2>
 
   <div class="top_concept_flex">
     <div class="top_concept_content fadeUpTrigger">
