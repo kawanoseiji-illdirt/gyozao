@@ -749,6 +749,10 @@ th > span {
 /* 横幅が狭いとき */
 @media (max-width: 640px) {
 
+  .wp-caption {
+    max-width:100%;
+  }
+
   .header_gyozao_logo {
     position: fixed;
     width: 90%;

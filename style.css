@@ -582,6 +582,10 @@ header {
 }
 }
 
+.wp-caption {
+  max-width:100%;
+}
+
 .top_news {
   background-color: #fff;
   text-align: center;
